@@ -22,3 +22,5 @@ Este ejemplo muestra cómo dos hilos pueden imprimir mensajes alternos en la con
 imprime "Hello!" y el otro imprime "Goodbye!". Usando un mutex (pencil), se asegura que solo uno de los hilos
 pueda acceder a la consola al mismo tiempo, lo que permite que los mensajes se alternen correctamente sin que 
 se solapen. De otra forma se podrian presentar errores de escritura como hello, hello o goodbye, goodbye.
+
+Estudiante: Yago solis Guerrero
