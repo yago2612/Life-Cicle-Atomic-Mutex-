@@ -24,3 +24,4 @@ pueda acceder a la consola al mismo tiempo, lo que permite que los mensajes se a
 se solapen. De otra forma se podrian presentar errores de escritura como hello, hello o goodbye, goodbye.
 
 Estudiante: Yago solis Guerrero
+se anade Solve the data race using mutex or atomic object in garlic shopper example!
